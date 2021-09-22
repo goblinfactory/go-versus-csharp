@@ -1,2 +1,4 @@
-# go-versus-csharp
-compare various patterns, GO and C# side by side
+# First impressions of GO from a C# dev
+
+-   [Simple examples where GO is cleaner]
+-   [Async versus channels](async-vs-channels.md)
