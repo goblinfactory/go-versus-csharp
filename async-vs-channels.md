@@ -4,9 +4,9 @@
 
 In C# this would be achieved by creating an async function. In GO you use goroutines and channels.
 
-<table width=100%>
+<table width="100%">
 <tr>
-<th width=50%>C#</th>
+<th width="50%">C#</th>
 <th>GO</th>
 </tr>
 <tr>
