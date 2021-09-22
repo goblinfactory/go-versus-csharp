@@ -6,8 +6,8 @@ In C# this would be achieved by creating an async function. In GO you use gorout
 
 <table width="100%">
 <tr>
-<th width="50%">C#</th>
-<th>GO</th>
+<th><img width="441" height="1">C#</th>
+<th><img width="441" height="1">GO</th>
 </tr>
 <tr>
 <td>
