@@ -4,10 +4,10 @@
 
 In C# this would be achieved by creating an async function. In GO you use goroutines and channels.
 
-<table width="100%">
+<table>
 <tr>
-<th><img width="441" height="1">C#</th>
-<th><img width="441" height="1">GO</th>
+<th><img width="441" height="1"/>C#</th>
+<th><img width="441" height="1"/>GO</th>
 </tr>
 <tr>
 <td>
@@ -47,13 +47,13 @@ func downloadFile(name string) <-chan int32 {
 
 Some introduction paragraph about pattern Blah goes here.
 
-<table width=100%>
+<table>
 <tr>
-<th><img width="441" height="1">C#</th>
-<th><img width="441" height="1">GO</th>
+<th><img width="441" height="1"/>C#</th>
+<th><img width="441" height="1"/>GO</th>
 </tr>
-<tr valign="top">
-<td valign="top">
+<tr>
+<td>
 <pre>
 
 ```csharp
