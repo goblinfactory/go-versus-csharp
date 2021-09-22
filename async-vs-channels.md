@@ -13,16 +13,16 @@ In C# this would be achieved by creating an async function. In GO you use gorout
 <td>
 
 ```csharp
-    static Task<int> downloadFile(string name)
-    {
-      var t = Task<int>.Run(() => {
-        var r = new Random();
-        Thread.Sleep(r.Next(3000));
-        Console.WriteLine($"downloaded {name}");
-        return r.Next(2000);
-      });
-      return t;
-    }
+static Task<int> downloadFile(string name)
+{
+    var t = Task<int>.Run(() => {
+    var r = new Random();
+    Thread.Sleep(r.Next(3000));
+    Console.WriteLine($"downloaded {name}");
+    return r.Next(2000);
+    });
+    return t;
+}
 ```
 
 </td>
@@ -52,8 +52,8 @@ Some introduction paragraph about pattern Blah goes here.
 <th><img width="441" height="1">C#</th>
 <th><img width="441" height="1">GO</th>
 </tr>
-<tr>
-<td>
+<tr valign="top">
+<td valign="top">
 <pre>
 
 ```csharp
