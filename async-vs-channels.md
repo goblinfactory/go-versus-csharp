@@ -4,9 +4,9 @@
 
 In C# this would be achieved by creating an async function. In GO you use goroutines and channels.
 
-<table>
+<table width=100%>
 <tr>
-<th>C#</th>
+<th width=50%>C#</th>
 <th>GO</th>
 </tr>
 <tr>
@@ -47,9 +47,9 @@ func downloadFile(name string) <-chan int32 {
 
 Some introduction paragraph about pattern Blah goes here.
 
-<table>
+<table width=100%>
 <tr>
-<th>C#</th>
+<th width=50%>C#</th>
 <th>GO</th>
 </tr>
 <tr>
